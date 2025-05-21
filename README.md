@@ -3,9 +3,9 @@
 
 The file `1920-1974-house` documents constituency (district) election results for elections to the U.S. House of Representatives from 1920 to 1974. The file `1920-1974-senate` documents senate election results from 1920 to 1974. The data source is the document "[Election Statistics: 1920 to Present](https://history.house.gov/Institution/Election-Statistics/Election-Statistics/)", collected and published by the Clerk of the House. This data complements the congressional election results from 1976 to 2022 cleaned by [MIT Election Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2), for the convenience of users, the data is structured similarly as the MIT Election Lab data.
 
-The data are cleaned, organized, and structured by Sai Zhang. When using the data, please cite:.
+The data are cleaned, organized, and structured by Sai Zhang. When using the data, please cite: Zhang, Sai. 2025. “U.S. Congressional Election Results, 1920-1974 (House and Senate).” Harvard Dataverse. [https://doi.org/doi:10.7910/DVN/WBEYJN](https://doi.org/doi:10.7910/DVN/WBEYJN).
 
-If you have encountered any issues, please report to the Github page where the developer version is hosted.
+If you have encountered any issues, please report to the [Github page](https://github.com/SaiChrisZHANG/us-congress-1920-1974) where the developer version is hosted.
 
 ## Variables
 
